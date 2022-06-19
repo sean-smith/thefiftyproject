@@ -1,5 +1,5 @@
 ####################### Banner #########################
-style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+style: "style3 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "The Fifty Project"
 subtitle: |
   Follow our journey as we fly to all 50 States in the USA.
@@ -8,5 +8,5 @@ content : |
 button:
   label : "The Route"
   link : "#first"
-image : "images/sean+alex.JPG"
+image : "images/aspen.jpg"
 
