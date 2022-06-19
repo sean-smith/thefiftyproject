@@ -1,0 +1,30 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "The Fifty Project"
+theme = "the-fifty-project"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "Follow our journey as we fly to all 50 states in the United States."
+  logo = "images/mooney.jpg"
+  favicon = true
+
+[Params.social]
+  github = "https://github.com/sean-smith/"
+  twitter = "https://twitter.com/seanwssmith"
+  email = "seanwssmith@gmail.com"
+  instagram = "https://instagram.com/seanfliesthings"
