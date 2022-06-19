@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "The Route"
+content: |
+  We've planned the route to stay with friends and family in as many of the states as possible, it may not be the most efficient route but it's certainly going to be fun.
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/map.png"

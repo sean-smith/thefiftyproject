@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "The Airplane"
+content: |
+  We'll be flying N231ER, a 1979 Mooney M20k. It cruises at 170 kts and gets 13 MPG, making for an efficient trip.
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/mooney.JPG"

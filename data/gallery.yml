@@ -1,0 +1,40 @@
+title: "Gallery"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  Some photos from flying the Mooney.
+pictures:
+  - title: "Sean and Alex"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/alex+sean_cockpit.jpg"
+    thumb: "images/gallery/fulls/alex+sean_cockpit.jpg"
+    button: "Details"
+
+  - title: "Alex"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/alex_cockpit.jpg"
+    thumb: "images/gallery/fulls/alex_cockpit.jpg"
+    button: "Details"
+
+  - title: "Alex"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/mooney_georgia.JPG"
+    thumb: "images/gallery/fulls/mooney_georgia.JPG"
+    button: "Details"
+
+  - title: "Oregon Coast"
+    content: "This is a shot of us fueling up the Mooney in "
+    image: "images/gallery/fulls/lobby-ksbp.png"
+    thumb: "images/gallery/fulls/lobby-ksbp.png"
+    button: "Details"
+  
+  - title: "Departing Orcas Island, Washington"
+    content: "This is a shot of us departing Orcas Island in the San Juans islands in the mooney."
+    image: "images/gallery/fulls/fam.png"
+    thumb: "images/gallery/fulls/fam.png"
+    button: "Details"
+
+  - title: "Oregon Coast"
+    content: "This is a shot of us fueling up the Mooney in "
+    image: "images/gallery/fulls/oregon.png"
+    thumb: "images/gallery/fulls/oregon.png"
+    button: "Details"
