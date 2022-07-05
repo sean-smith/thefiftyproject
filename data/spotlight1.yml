@@ -5,6 +5,6 @@ title : "The Route"
 content: |
   We've planned the route to stay with friends and family in as many of the states as possible, it may not be the most efficient route but it's certainly going to be fun.
 button: 
-  label: "Track us Live!"
-  link: "https://flightaware.com/live/flight/N231ER"
+  label: "View the Route"
+  link: "https://www.google.com/maps/d/u/0/edit?mid=1UVMy5xfJJaveW9MCBkV9BMWFL24pRG4&usp=sharing"
 image: "images/map.png"
