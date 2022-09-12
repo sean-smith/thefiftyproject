@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Get Involved"
+content: |
+  During the course of this adventure, we are raising awareness of the incredible work that Angel Flight West does (with the help of all their volunteers!) as well as raising funds to help support this organization to continue to provide transportation to patients. <b>100% of the funds we raise will go to <a href="https://www.angelflightwest.org/">Angel Flight West</a></b>. Any donation makes a difference.
+button: 
+  label: "Donate!"
+  link: "https://www.gofundme.com/f/the-fifty-project"
+image: "images/angelflight.png"
