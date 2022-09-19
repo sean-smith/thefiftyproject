@@ -3,7 +3,7 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 title : "The Route"
 content: |
-  We've planned the route to stay with friends and family in as many of the states as possible, it may not be the most efficient route but it's certainly going to be fun.
+  We've planned the route to stay with friends and family in as many of the states as possible, it may not be the most efficient route but it's certainly going to be fun. <a href="https://plan.foreflight.com/share/accept/01b8f7OILHR4qNP6EN">View in ForeFlight</a>.
 button: 
   label: "View the Route"
   link: "https://www.google.com/maps/d/u/0/edit?mid=1UVMy5xfJJaveW9MCBkV9BMWFL24pRG4&usp=sharing"
