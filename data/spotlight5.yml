@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-left onscroll-image-fade-in"
+title : "News"
+content: |
+  We were covered as part of a front page article in the Friend Sentinel in Friend, Nebraska! We got to spend the morning in Nebraska talking to the reporter and did a photo shoot - which was a blast!
+button: 
+  label: "Read the Article"
+  link: "/news/friend-sentinal-fifty-project.pdf"
+image: "images/friend-sentinel-fifty-project.png"
